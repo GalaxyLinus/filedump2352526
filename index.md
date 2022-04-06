@@ -1,3 +1,3 @@
 Index:
 
-[Modpack V1](https://galaxylinus.github.io/filedump2352526/Modpack%20V1)
+[Modpack V1](https://galaxylinus.github.io/filedump2352526/ModpackV1)
